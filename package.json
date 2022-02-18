@@ -1,0 +1,28 @@
+{
+  "name": "acehightest",
+  "version": "1.0.0",
+  "description": "A Node application",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --exit",
+    "start": "node ./index.js --file"
+  },
+  "author": "Anurag Soni",
+  "license": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "homepage": "",
+  "keywords": [
+    "",
+    ""
+  ],
+  "dependencies": {
+    "chai": "^4.3.6",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "mocha": "^9.2.0"
+  }
+}
